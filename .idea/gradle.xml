@@ -10,6 +10,7 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/csv_json_parser" />
+            <option value="$PROJECT_DIR$/xml_json_parser" />
           </set>
         </option>
       </GradleProjectSettings>
