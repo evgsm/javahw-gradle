@@ -1,4 +1,5 @@
 rootProject.name = 'javahw-gradle'
 include 'csv_json_parser'
 include 'xml_json_parser'
+include 'JsonParser'
 

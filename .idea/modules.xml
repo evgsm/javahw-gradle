@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JsonParser.iml" filepath="$PROJECT_DIR$/.idea/modules/JsonParser.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/csv_json_parser.iml" filepath="$PROJECT_DIR$/.idea/modules/csv_json_parser.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/xml_json_parser.iml" filepath="$PROJECT_DIR$/.idea/modules/xml_json_parser.iml" />
     </modules>
