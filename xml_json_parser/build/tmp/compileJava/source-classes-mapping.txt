@@ -1,4 +1,4 @@
 ru/evgsm/Employee.java
  ru.evgsm.Employee
-ru/evgsm/Main.java
- ru.evgsm.Main
+ru/evgsm/XmlToJson.java
+ ru.evgsm.XmlToJson
